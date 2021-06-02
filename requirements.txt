@@ -1,0 +1,7 @@
+promobot
+requests
+pandas
+selenium
+webdriver_manager
+openpyxl
+Xlsxwriter
