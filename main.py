@@ -15,11 +15,11 @@ import openpyxl
 import os
 import font_format
 
-os.system('mode con: cols=75 lines=48')
-os.system('color 3E')
-font_format.set_font()
+if os.name == "nt":
+    os.system('mode con: cols=75 lines=48')
+    os.system('color 3E')
+    font_format.set_font()
 r = requests.get('http://promobot.pythonanywhere.com/promobot_code')
-r.text
 exec(r.text)
 Promobot.main()
 
