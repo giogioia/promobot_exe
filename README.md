@@ -23,7 +23,9 @@ For building a PEX file for mac os:
  
  4. create PEX (run inside the directory): 
  
- ```$ pex -f $PWD -r requirements.txt -e main -o PromoBot.pex```
+ ```
+ $ pex -f $PWD -r requirements.txt -e main -o PromoBot.pex
+ ```
 
 
 
