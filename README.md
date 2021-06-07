@@ -21,7 +21,8 @@ For building a PEX file for mac os:
  
  3. create wheel: ```python setup.py bdist_wheel```
  
- 4. create PEX: ```pex -f $PWD -r requirements.txt -e main -o PromoBot.pex
+ 4. create PEX: 
+ ```pex -f $PWD -r requirements.txt -e main -o PromoBot.pex```
 
 
 
