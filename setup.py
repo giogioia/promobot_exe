@@ -1,6 +1,6 @@
 from setuptools import setup
 setup (
-  name = "promobot",
-  py_modules = ['main','get_new_token'],
+  name = "PromoBot",
+  py_modules = ['main','get_new_token','font_format.py'],
   version='1.0',
 )
