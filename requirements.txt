@@ -4,6 +4,4 @@ pandas
 selenium
 webdriver_manager
 openpyxl
-Xlsxwriter
-from subprocess import call
 from concurrent.futures import ThreadPoolExecutor
