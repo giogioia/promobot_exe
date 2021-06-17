@@ -23,8 +23,7 @@ For building a PEX file for mac os (.pex):
  4. move newly created wheel from "dist" folder to main directory. You can do this manually or automatically by executing the cleanup.command file.
     To do this programmatically: 
     ```bash
-    chmod +x cleanup.command
-    ./cleanup.command
+    . ./cleanup.command
     ```
  5. create PEX: 
  ```bash
