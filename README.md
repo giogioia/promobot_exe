@@ -1,7 +1,7 @@
 # Glovo Promotion Automation Project.
 
-Modules used for compiling an empty shell executable app for locally running a script hosted on a microframework.
-Script hosted on https://promobot.pythonanywhere.com/promobot_code/
+Modules used for compiling an empty shell executable app for locally running a script hosted online.
+Script: https://el-promobot.netlify.app/code.py
 
 
 For building windows executable app (.exe):
