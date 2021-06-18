@@ -4,4 +4,4 @@ pandas
 selenium
 webdriver_manager
 openpyxl
-from concurrent.futures import ThreadPoolExecutor
+regex
